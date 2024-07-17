@@ -17,3 +17,11 @@
 - Se verifica si la variable se creó correctamente
 - En realidad se trabaja con el **contexto** de canvas 2d. Se crea una variable **ctx** con la cual se manipula el canvas.
 - Se verifica que el contexto se haya creado de manera exitosa, dando la bienvenida por medio de un alert(), o advirtiendo un error de creación de contexto.
+
+![capture](img/cap1.png "1")
+![capture](img/cap2.png "2")
+![capture](img/cap3.png "3")
+![capture](img/cap4.png "4")
+![capture](img/cap5.png "5")
+![capture](img/cap6.png "6")
+![capture](img/cap7.png "7")
